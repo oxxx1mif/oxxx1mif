@@ -1,16 +1,13 @@
-## Hi there 👋
+## Greetings.
 
-<!--
-**oxxx1mif/oxxx1mif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Java, Python, C++, and Kotlin developer.
 
-Here are some ideas to get you started:
+## Organization:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[imperial](https://github.com/imperial-star)
+
+## Social Media
+
+- Telegram: [tg](https://t.me/oxxximif)
+- VK: [vk](https://vk.com/imperoxxx)
+- Gmail: oximif174@gmail.com
