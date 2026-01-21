@@ -1,13 +1,25 @@
-## Greetings.
 
-I'm a Java, Python, C++, and Kotlin developer.
+![anner](https://raw.githubusercontent.com/oxxx1mif/oxxx1mif/main/banner.jpg)
 
-## Organization:
 
-[imperial](https://github.com/imperial-star)
+# 🐧 oxxximif
 
-## Social Media
+Hello, I am oxxximif
 
-- Telegram: [tg](https://t.me/oxxximif)
-- VK: [vk](https://vk.com/imperoxxx)
-- Gmail: oximif174@gmail.com
+
+## 🛠 Skills
+
+Java , Kotlin , Python , C++
+
+
+## 🚀 About Me
+
+I am a full-stack developer
+
+- tg : [Telegram](https://t.me/oxxximif)
+- vk : [Vk](https://vk.com/imperoxxx)
+- email : oximif174@gmail.com
+## Support
+
+Tonkeeper : UQBCM47byBepVUDLU9tWaRmgURoB13lQBRc-31V27DLnHPi3
+
