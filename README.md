@@ -4,12 +4,11 @@
 
 # 🐧 oxxximif
 
-Hello, I am oxxximif
-
+Hi, I'm oxxximif. Gleb Obitotsky
 
 ## 🛠 Skills
 
-Java , Kotlin , Python , C++, c , rust
+Java, Kotlin, Python, C++, C, Rust. I'm actively learning Java, Kotlin, and C++. I recently started learning SQL, but my knowledge isn't very good yet.
 
 ## 🛠 My projects in Java / Kotlin / C++ / Go / Rust that are currently in development:
 
