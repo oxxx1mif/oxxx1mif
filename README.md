@@ -10,7 +10,7 @@ Hi, I'm oxxximif.
 
 Java, C++, C, Rust, go. I'm actively learning Java, and C++. I recently started learning SQL, but my knowledge isn't very good yet.
 
-## 🛠 My projects in Java / Kotlin / C++ / Go / Rust that are currently in development:
+## 🛠 My projects in Java / C++ / Go / Rust that are currently in development:
 
 - Starwise. AI-powered roadmap creation service (gemini, GIGA chat). Link: https://github.com/imperial-star/starwise/tree/main
 - GuA-SoundCloud. A convenient library for working with the SoundCloud API for Android. Link: https://github.com/ImperGram/GuA-Music
