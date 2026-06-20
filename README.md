@@ -1,5 +1,5 @@
 
-![anner](https://raw.githubusercontent.com/oxxx1mif/oxxx1mif/main/banner.jpg)
+![anner](https://raw.githubusercontent.com/oxxx1mif/oxxx1mif/refs/heads/main/Photo%20from%202026-06-19%2015-27-01.885896.jpeg)
 
 
 # 🐧 oxxximif
